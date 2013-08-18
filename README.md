@@ -1,0 +1,4 @@
+qthelloword
+===========
+
+learning qt
