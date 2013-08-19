@@ -45,6 +45,7 @@ int main(int argc, char *argv[])
     window->show();
     */
 
+
     /*
     FindDialog *dialog = new FindDialog;
     dialog->show();
@@ -54,6 +55,10 @@ int main(int argc, char *argv[])
     HexSpinBox* spinBox = new HexSpinBox;
     spinBox->show();
     */
+
+    /*
+      TEST GIT
+      */
 
     return a.exec();
 }
